@@ -1,0 +1,10 @@
+* wu-sugar
+
+Defines "str" for string concatenation and provides a few other useful functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Wukix/wu-sugar.git   |
+| commit  | 9bcbef7  |
+| systems | wu-sugar |
+|---------+-------------------------------------------|
+
